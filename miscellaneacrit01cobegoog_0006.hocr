@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./miscellaneacrit01cobegoog_0006.png"; bbox 0 0 3358 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 372 2097 1114 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 372 2097 1114 2224">
+     <span class='ocr_line' id='line_1_1' title="bbox 372 2097 1114 2224; baseline 0.007 -5"><span class='ocrx_word' id='word_1_1' title='bbox 372 2097 824 2220; x_wconf 74' lang='lat' dir='ltr'><strong>MISOELLANEA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 860 2105 1114 2224; x_wconf 78' lang='lat' dir='ltr'><strong>CRITIOA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 546 2461 935 2527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 546 2461 935 2527">
+     <span class='ocr_line' id='line_1_2' title="bbox 546 2461 935 2527; baseline 0.008 -16"><span class='ocrx_word' id='word_1_3' title='bbox 546 2461 670 2527; x_wconf 74' lang='lat' dir='ltr'><strong>qmnus</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 692 2461 935 2514; x_wconf 66' lang='lat' dir='ltr'><strong>commum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 173 2761 1298 2848">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 173 2761 1298 2848">
+     <span class='ocr_line' id='line_1_3' title="bbox 173 2761 1298 2848; baseline 0.001 -32"><span class='ocrx_word' id='word_1_5' title='bbox 173 2761 528 2816; x_wconf 68' lang='lat' dir='ltr'>OBSERVATION-Es</span> <span class='ocrx_word' id='word_1_6' title='bbox 555 2761 748 2812; x_wconf 64' lang='lat' dir='ltr'>onmem</span> <span class='ocrx_word' id='word_1_7' title='bbox 773 2763 816 2813; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 843 2763 1087 2848; x_wconf 64' lang='lat' dir='ltr'><strong>schp‘rolms</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1111 2766 1298 2817; x_wconf 69' lang='lat' dir='ltr'><strong>amcos.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1684 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1684 5200">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1684 5200; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1684 5200; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
